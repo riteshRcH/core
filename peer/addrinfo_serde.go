@@ -3,7 +3,7 @@ package peer
 import (
 	"encoding/json"
 
-	ma "github.com/riteshRcH/go-edge-device-lib/multiaddr"
+	ma "github.com/riteshRcH/multiaddr"
 )
 
 // Helper struct for decoding as we can't unmarshal into an interface (Multiaddr).

@@ -13,7 +13,7 @@ import (
 	"github.com/riteshRcH/core/peer"
 	"github.com/riteshRcH/core/record"
 
-	ma "github.com/riteshRcH/go-edge-device-lib/multiaddr"
+	ma "github.com/riteshRcH/multiaddr"
 )
 
 var ErrNotFound = errors.New("item not found")

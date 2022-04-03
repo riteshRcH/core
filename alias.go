@@ -6,7 +6,7 @@ import (
 	"github.com/riteshRcH/core/network"
 	"github.com/riteshRcH/core/peer"
 	"github.com/riteshRcH/core/protocol"
-	"github.com/riteshRcH/go-edge-device-lib/multiaddr"
+	"github.com/riteshRcH/multiaddr"
 )
 
 // Multiaddr aliases the Multiaddr type from github.com/multiformats/go-multiaddr.

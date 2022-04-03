@@ -3,7 +3,7 @@ package peer
 import (
 	"fmt"
 
-	ma "github.com/riteshRcH/go-edge-device-lib/multiaddr"
+	ma "github.com/riteshRcH/multiaddr"
 )
 
 // AddrInfo is a small struct used to pass around a peer with

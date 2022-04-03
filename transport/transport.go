@@ -9,8 +9,8 @@ import (
 	"github.com/riteshRcH/core/network"
 	"github.com/riteshRcH/core/peer"
 
-	ma "github.com/riteshRcH/go-edge-device-lib/multiaddr"
-	manet "github.com/riteshRcH/go-edge-device-lib/multiaddr/net"
+	ma "github.com/riteshRcH/multiaddr"
+	manet "github.com/riteshRcH/multiaddr/net"
 )
 
 // A CapableConn represents a connection that has offers the basic

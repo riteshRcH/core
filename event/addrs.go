@@ -2,7 +2,7 @@ package event
 
 import (
 	"github.com/riteshRcH/core/record"
-	ma "github.com/riteshRcH/go-edge-device-lib/multiaddr"
+	ma "github.com/riteshRcH/multiaddr"
 )
 
 // AddrAction represents an action taken on one of a Host's listen addresses.

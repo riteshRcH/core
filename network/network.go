@@ -13,7 +13,7 @@ import (
 	"github.com/riteshRcH/core/peer"
 	"github.com/riteshRcH/core/peerstore"
 
-	ma "github.com/riteshRcH/go-edge-device-lib/multiaddr"
+	ma "github.com/riteshRcH/multiaddr"
 )
 
 // MessageSizeMax is a soft (recommended) maximum for network messages.

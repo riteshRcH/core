@@ -8,7 +8,8 @@ require (
 	github.com/gogo/protobuf v1.3.2
 	github.com/minio/sha256-simd v1.0.0
 	github.com/mr-tron/base58 v1.2.0
-	github.com/riteshRcH/go-edge-device-lib v0.0.0-20220402174009-08ff83f8d508
+	github.com/riteshRcH/go-edge-device-lib v0.0.0-20220403201141-238a5d3dd2f3
+	github.com/riteshRcH/multiaddr v0.0.0-20220402164736-0522cc1847da
 	github.com/stretchr/testify v1.7.1
 )
 
@@ -17,6 +18,7 @@ require (
 	github.com/klauspost/cpuid/v2 v2.0.9 // indirect
 	github.com/mattn/go-pointer v0.0.1 // indirect
 	github.com/minio/blake2b-simd v0.0.0-20160723061019-3f5f724cb5b1 // indirect
+	github.com/multiformats/go-multicodec v0.4.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/spacemonkeygo/spacelog v0.0.0-20180420211403-2296661a0572 // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect

@@ -3,7 +3,7 @@ package peer_test
 import (
 	"testing"
 
-	ma "github.com/riteshRcH/go-edge-device-lib/multiaddr"
+	ma "github.com/riteshRcH/multiaddr"
 
 	. "github.com/riteshRcH/core/peer"
 )

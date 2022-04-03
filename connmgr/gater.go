@@ -1,7 +1,7 @@
 package connmgr
 
 import (
-	ma "github.com/riteshRcH/go-edge-device-lib/multiaddr"
+	ma "github.com/riteshRcH/multiaddr"
 
 	"github.com/riteshRcH/core/control"
 	"github.com/riteshRcH/core/network"

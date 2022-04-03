@@ -7,7 +7,7 @@ import (
 	ic "github.com/riteshRcH/core/crypto"
 	"github.com/riteshRcH/core/peer"
 
-	ma "github.com/riteshRcH/go-edge-device-lib/multiaddr"
+	ma "github.com/riteshRcH/multiaddr"
 )
 
 // Conn is a connection to a remote peer. It multiplexes streams.

@@ -8,7 +8,7 @@ import (
 	pb "github.com/riteshRcH/core/peer/pb"
 	"github.com/riteshRcH/core/record"
 
-	ma "github.com/riteshRcH/go-edge-device-lib/multiaddr"
+	ma "github.com/riteshRcH/multiaddr"
 
 	"github.com/gogo/protobuf/proto"
 )

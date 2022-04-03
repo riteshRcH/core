@@ -14,7 +14,7 @@ import (
 	"github.com/riteshRcH/core/peerstore"
 	"github.com/riteshRcH/core/protocol"
 
-	ma "github.com/riteshRcH/go-edge-device-lib/multiaddr"
+	ma "github.com/riteshRcH/multiaddr"
 )
 
 // Host is an object participating in a p2p network, which
