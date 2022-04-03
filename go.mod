@@ -8,7 +8,7 @@ require (
 	github.com/gogo/protobuf v1.3.2
 	github.com/minio/sha256-simd v1.0.0
 	github.com/mr-tron/base58 v1.2.0
-	github.com/riteshRcH/go-edge-device-lib v0.0.0-20220402174009-b966756e347b
+	github.com/riteshRcH/go-edge-device-lib v0.0.0-20220402174009-08ff83f8d5087b4d8466f563e3a407567c6c5f46
 	github.com/stretchr/testify v1.7.1
 )
 
